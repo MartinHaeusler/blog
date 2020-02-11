@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04cddf3d-b31d-492b-a1d6-740c9d3c91dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfsqDIEhg6zKsCIkpEBvIqY1YQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/example/simplecdi/stage7/classpathscan" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin\Desktop\SimpleCDI\src\main\java\org\example\simplecdi\stage7\classpathscan" />
+      <recent name="C:\Users\Martin\Desktop\SimpleCDI\src\main\java\org\example\simplecdi\stage5\annotations" />
+      <recent name="C:\Users\Martin\Desktop\SimpleCDI\src\main\java\org\example\simplecdi\stage6\contextwithinheritance" />
+      <recent name="C:\Users\Martin\Desktop\SimpleCDI\src\main\java\org\example\simplecdi\stage5\context" />
+      <recent name="C:\Users\Martin\Desktop\SimpleCDI\src\main\java\org\example\simplecdi\stage4\fieldinjection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.simplecdi.stage6.contextwithinheritance.context.Main" />
+      <module name="SimpleCDI.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.simplecdi.stage6.contextwithinheritance.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.simplecdi.stage6.annotations.Main" />
+      <module name="SimpleCDI.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.simplecdi.stage6.annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.simplecdi.stage7.classpathscan.Main" />
+      <module name="SimpleCDI.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.simplecdi.stage7.classpathscan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.simplecdi.stage5.context.collectionofclasses.Main" />
+      <module name="SimpleCDI.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.simplecdi.stage5.context.collectionofclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.simplecdi.stage5.context.Main" />
+      <module name="SimpleCDI.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.simplecdi.stage5.context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04cddf3d-b31d-492b-a1d6-740c9d3c91dc" name="Default Changelist" comment="" />
+      <created>1581448671576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581448671576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="363" key="#Project_Structure" timestamp="1581448746812">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="363" key="#Project_Structure/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581448746812" />
+    <state x="1086" y="411" key="#com.intellij.ide.util.MemberChooser" timestamp="1581449374434">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="411" key="#com.intellij.ide.util.MemberChooser/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581449374434" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1581451334430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581451334430" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1581451334430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581451334430" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1581451334430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581451334430" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1581451334430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581451334430" />
+    <state width="768" height="130" key="javadoc.popup.new" timestamp="1581451310159">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="768" height="130" key="javadoc.popup.new/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581451310159" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1581449597055">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1581449597055" />
+  </component>
+</project>
